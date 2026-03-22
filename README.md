@@ -6,8 +6,8 @@
 
 | Metric | Value |
 |---|---|
-| **Current CF Rating** | Unrated |
-| **Peak CF Rating** | Unrated |
+| **Current CF Rating** | 431 |
+| **Peak CF Rating** | 431 |
 | **CF Handle** | [1abhiraj](https://codeforces.com/profile/1abhiraj) |
 <!-- | **Current Rank** | Unranked |
 | **Problems Solved (Total)** | 15 |
